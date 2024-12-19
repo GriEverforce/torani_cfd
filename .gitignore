@@ -1,3 +1,20 @@
+# ADDED BY EVERFORCE
+
+__pycache__/
+__pycache__/*
+myenv
+mail_reading/stream-po-gen/attached_files_folder/*/
+mail_reading/stream-po-gen/attached_files_folder/*
+.sf_config.env
+config.ini
+logs/*
+repository_cfd
+logger_output.log
+*.pem
+*.ppk
+
+# DEFAULT
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
